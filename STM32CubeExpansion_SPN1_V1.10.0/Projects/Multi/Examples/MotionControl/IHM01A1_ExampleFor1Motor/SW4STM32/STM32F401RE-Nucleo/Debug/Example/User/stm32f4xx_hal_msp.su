@@ -1,0 +1,6 @@
+stm32f4xx_hal_msp.c:68:6:HAL_SPI_MspInit	56	static
+stm32f4xx_hal_msp.c:114:6:HAL_SPI_MspDeInit	16	static
+stm32f4xx_hal_msp.c:137:6:HAL_TIM_PWM_MspInit	48	static
+stm32f4xx_hal_msp.c:204:6:HAL_TIM_PWM_MspDeInit	16	static
+stm32f4xx_hal_msp.c:239:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
+stm32f4xx_hal_msp.c:271:6:HAL_GPIO_EXTI_Callback	16	static
